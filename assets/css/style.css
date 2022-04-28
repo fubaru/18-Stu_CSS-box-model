@@ -10,6 +10,12 @@ section {
     height: 200px;
     background-color: lightblue;
     /* TODO: Add a margin property */
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
     /* TODO: Add a padding property */
+    padding: 10px 10px;
     /* TODO: Add a border property */
+    border: 10px solid darkblue;
   }
